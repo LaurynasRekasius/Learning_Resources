@@ -1,2 +1,2 @@
-# Learning_Resources
+# Learning Resources
 My personal list of favorite AI/ML/DL learning resources from around the internet
